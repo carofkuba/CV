@@ -1,2 +1,2 @@
-Carolina Kuba cv
+Carolina Kuba's cv.
 Done with html, css and Javascript
