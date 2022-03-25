@@ -1,2 +1,2 @@
-Carolina Kuba's cv.
-Done with html, css and Javascript
+Personal CV project.
+Done with html, css and Javascript.
